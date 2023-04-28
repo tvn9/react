@@ -1,4 +1,4 @@
-# React 
+# ReactJS 
 
-Using react to build better web frontend 
+Master React Frontend Development.
 
