@@ -18,12 +18,11 @@ function App() {
          amount: 398.99
       },
    ];
+
    return (
       <div>
          <h2>Let's get started!</h2>
-         <Expenses date={data[0].date} title={data[0].title} amount={data[0].amount}></Expenses>
-         <Expenses date={data[1].date} title={data[1].title} amount={data[1].amount}></Expenses>
-         <Expenses date={data[2].date} title={data[2].title} amount={data[2].amount}></Expenses>
+         <Expenses items={data} />
       </div >
    );
 }
