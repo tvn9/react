@@ -1,4 +1,4 @@
-# ReactJS 
+# React
 
 Master React Frontend Development.
 
